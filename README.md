@@ -28,3 +28,5 @@ See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 ## License
 
 Licensed under Apache License 2.0. See [LICENSE](LICENSE).
+
+This calculator uses the simple interest formula.
